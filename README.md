@@ -1,1 +1,1 @@
-This project is built to give people the direct coordinates of where the ISS is courrently on the planet. To accomplish this, I am using an API call method 
+This project is built to give people the direct coordinates of where the ISS is courrently on the planet. To accomplish this, I am using an API call method and using JSON file writing methods to update a file that I am printing. I also am using the Geocoder to give the current lat and long of the user. Eventually there will be a world map with the ISS plotted on it. 
